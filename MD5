@@ -1,0 +1,14 @@
+c21e75383ca0861aebe4f6c33ee65668 *DESCRIPTION
+cacca69e70a1efe9d5c7d47b80b22e23 *LICENSE
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+b5dff089f35cffea3d9b9e726e017039 *NEWS.md
+fcb21ee08e05b5e0abc12f4c26dba801 *R/ggmugs.R
+0befe7d53db80d743c54ff32d87c7f61 *R/global_variables.R
+27b717a6a53df7bf0c37f0c9c7db6363 *README.md
+3bdc136b09387a6d3b39b57f3f68db61 *inst/WORDLIST
+4ee007bd059036f58f111fe8e7a91af1 *man/ggmugs.Rd
+5be2ddd3e8a7f123dfd04cf56906839c *man/img/example.png
+1fc435775e9d1ffb0fc49523c96206f0 *man/img/logo.png
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
+95a9719f6f5745dcd1e7073c40db1c4b *tests/testthat.R
+4aeeceb169f25552d2c1ed9e24b39800 *tests/testthat/test-ggmugs.R
